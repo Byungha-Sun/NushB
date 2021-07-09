@@ -1,5 +1,0 @@
-library(dplyr)
-getwd()
-setwd('c:/Rstudy/data/project')
-cctv <- read.csv('CCTV.csv')
-head(cctv)
